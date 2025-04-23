@@ -67,6 +67,8 @@ window.onload = function () {
       est: { ...est, type: "estimated" }
     }));
 
+    // Not for the scatter plot, but print an array of objects. One object for each player. Each player has a list of contracts. First, we check the actual contratcs. If that contract does not have an end or a start - we check corresponding estimated contract and uses that. Then we check if there are any estimated contracts that does not have corresponding actual contracts, if so - we add that to the list. Again - not to the plot, dont need x and y.
+
     const ctx = document.getElementById("contractChart").getContext("2d");
 
     new Chart(ctx, {
