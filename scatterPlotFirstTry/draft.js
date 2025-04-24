@@ -1,7 +1,7 @@
 window.onload = function () {
   Promise.all([
-    fetch("firstDraft/estimatedContracts.json").then((res) => res.json()),
-    fetch("firstDraft/actualContracts.json").then((res) => res.json()),
+    fetch("estimatedContracts.json").then((res) => res.json()),
+    fetch("actualContracts.json").then((res) => res.json()),
   ]).then(([estimatedRaw, actualRaw]) => {
     const DateTime = luxon.DateTime;
 

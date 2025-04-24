@@ -1,0 +1,141 @@
+[{
+  "playerId": "30529",
+  "clubId": "29360",
+  "clubName": "Deportivo Alavés",
+  "playerJoined": null,
+  "normalizedContractStart": null,
+  "normalizedContractEnd": "2022-06-30",
+  "actualContractStart": null,
+  "actualContractEnd": "2022-06-30",
+  "numContractsInPeriod": "4"
+}, {
+  "playerId": "30529",
+  "clubId": "32316",
+  "clubName": "Hannover 96",
+  "playerJoined": null,
+  "normalizedContractStart": null,
+  "normalizedContractEnd": "2021-06-30",
+  "actualContractStart": null,
+  "actualContractEnd": "2021-06-30",
+  "numContractsInPeriod": "1"
+}, {
+  "playerId": "30529",
+  "clubId": "9185",
+  "clubName": "AIK",
+  "playerJoined": "2022-07-15",
+  "normalizedContractStart": "2022-06-30",
+  "normalizedContractEnd": "2025-12-31",
+  "actualContractStart": "2022-07-15",
+  "actualContractEnd": "2025-12-31",
+  "numContractsInPeriod": "3"
+}, {
+  "playerId": "78624",
+  "clubId": "2304",
+  "clubName": "Nottingham Forest",
+  "playerJoined": null,
+  "normalizedContractStart": null,
+  "normalizedContractEnd": "2020-06-29",
+  "actualContractStart": null,
+  "actualContractEnd": "2020-06-30",
+  "numContractsInPeriod": "2"
+}, {
+  "playerId": "78624",
+  "clubId": "9185",
+  "clubName": "AIK",
+  "playerJoined": "2021-03-29",
+  "normalizedContractStart": "2020-12-31",
+  "normalizedContractEnd": "2024-12-30",
+  "actualContractStart": "2021-03-29",
+  "actualContractEnd": "2024-12-31",
+  "numContractsInPeriod": "1"
+}, {
+  "playerId": "78624",
+  "clubId": "9185",
+  "clubName": "AIK",
+  "playerJoined": "2021-03-29",
+  "normalizedContractStart": "2021-12-31",
+  "normalizedContractEnd": "2024-12-30",
+  "actualContractStart": "2021-12-31",
+  "actualContractEnd": "2024-12-30",
+  "numContractsInPeriod": "1"
+}, {
+  "playerId": "78624",
+  "clubId": "2383",
+  "clubName": "Portsmouth",
+  "playerJoined": "2025-03-06",
+  "normalizedContractStart": "2024-12-31",
+  "normalizedContractEnd": "2025-06-30",
+  "actualContractStart": "2025-03-16",
+  "actualContractEnd": "2025-06-29",
+  "numContractsInPeriod": "1"
+}, {
+  "playerId": "78783",
+  "clubId": "9185",
+  "clubName": "AIK",
+  "playerJoined": "2020-08-17",
+  "normalizedContractStart": "2023-12-31",
+  "normalizedContractEnd": "2024-12-30",
+  "actualContractStart": "2023-12-26",
+  "actualContractEnd": "2024-12-31",
+  "numContractsInPeriod": "1"
+}, {
+  "playerId": "78783",
+  "clubId": "9185",
+  "clubName": "AIK",
+  "playerJoined": "2020-08-17",
+  "normalizedContractStart": "2024-12-30",
+  "normalizedContractEnd": "2024-12-30",
+  "actualContractStart": "2024-10-17",
+  "actualContractEnd": "2024-12-30",
+  "numContractsInPeriod": "1"
+}, {
+  "playerId": "78783",
+  "clubId": "9185",
+  "clubName": "AIK",
+  "playerJoined": "2020-08-17",
+  "normalizedContractStart": "2024-12-30",
+  "normalizedContractEnd": "2025-12-31",
+  "actualContractStart": "2024-10-17",
+  "actualContractEnd": "2025-12-31",
+  "numContractsInPeriod": "1"
+}, {
+  "playerId": "202073",
+  "clubId": "9185",
+  "clubName": "AIK",
+  "playerJoined": "2023-07-07",
+  "normalizedContractStart": "2023-06-30",
+  "normalizedContractEnd": "2025-12-31",
+  "actualContractStart": "2023-07-07",
+  "actualContractEnd": "2025-12-31",
+  "numContractsInPeriod": "3"
+}, {
+  "playerId": "229290",
+  "clubId": "5481",
+  "clubName": "New York City",
+  "playerJoined": null,
+  "normalizedContractStart": null,
+  "normalizedContractEnd": "2019-12-31",
+  "actualContractStart": null,
+  "actualContractEnd": "2019-12-31",
+  "numContractsInPeriod": "1"
+}, {
+  "playerId": "229290",
+  "clubId": "31648",
+  "clubName": "Vejle",
+  "playerJoined": "2022-07-01",
+  "normalizedContractStart": "2022-06-30",
+  "normalizedContractEnd": "2025-06-30",
+  "actualContractStart": "2022-07-01",
+  "actualContractEnd": "2025-06-30",
+  "numContractsInPeriod": "1"
+}, {
+  "playerId": "229290",
+  "clubId": "18928",
+  "clubName": "Žalgiris",
+  "playerJoined": "2025-03-27",
+  "normalizedContractStart": "2024-12-31",
+  "normalizedContractEnd": "2025-12-31",
+  "actualContractStart": "2025-03-31",
+  "actualContractEnd": "2025-12-30",
+  "numContractsInPeriod": "1"
+}]
