@@ -25,3 +25,5 @@
 - Bryt ut datum normalize metoden (beror på hur  datum / säsong ska användas?)
 
  ![sheet](./img/sheet.png)
+spelare: John Guidetti, Alexander Milošević, Sotirios Papagiannopoulos, Dino Beširović, Ebenezer Ofori
+https://docs.google.com/spreadsheets/d/1ZCylwjP72mV0CfrOlXdjTzACgQs6Jxi884eAab0X6_0/edit?usp=sharing
